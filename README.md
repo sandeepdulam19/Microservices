@@ -34,7 +34,7 @@ Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
    - [Google Cloud project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project).
    - Shell environment with `gcloud`, `git`, and `kubectl`.
 
-2
+
 
    ```sh
    export PROJECT_ID=<PROJECT_ID>
